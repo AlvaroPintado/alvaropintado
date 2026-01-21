@@ -66,7 +66,7 @@ Aunque mi foco es el hardware, mantengo mis habilidades Full Stack y de IA afila
 
 ### 📫 ¿Hablamos de Hardware?
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alvarete865@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/tu-usuario)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alvaro.pintadobudia@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/álvaro-pintado-budia-a0383a392)
 
 </div>
