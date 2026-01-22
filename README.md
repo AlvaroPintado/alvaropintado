@@ -16,6 +16,8 @@ Actualmente, estoy enfocando mi carrera hacia el **Diseño Hardware, FPGAs y Sis
   <img src="https://img.shields.io/badge/Ada-000000?style=for-the-badge&logo=ada&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-A8B9CC?style=for-the-badge&logo=assembly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
 </p>
 
 **Software & Scripting:**
@@ -33,15 +35,14 @@ Aquí puedes ver cómo aplico la ingeniería para controlar el mundo físico:
 
 #### ✈️ [FlightSystemSimulator](https://github.com/AlvaroPintado/FlightSystemSimulator)
 > **Lenguaje:** Ada
-> Simulador de sistemas de vuelo críticos. Desarrollo enfocado en la seguridad y la concurrencia utilizando **Ada**, demostrando capacidades para software de alta integridad (aviónica).
+> Simulador de sistemas de vuelo críticos. Implementación de un sistema de control validando el cumplimiento estricto de **plazos (Deadlines)** y análisis de la **planificabilidad** para tareas concurrentes.
 
-#### 💡 [SmartLamp](https://github.com/AlvaroPintado/SmartLamp) & [DistribuidorFitonutrientesNPK](https://github.com/AlvaroPintado/DistribuidorFitonutrientesNPK)
-> **Lenguaje:** C
-> Desarrollo de sistemas embebidos para control de dispositivos IoT y automatización agrícola. Programación a bajo nivel para gestión eficiente de recursos.
+#### 🌱 [DistribuidorFitonutrientesNPK](https://github.com/AlvaroPintado/DistribuidorFitonutrientesNPK)
+> **Lenguaje:** C | **Hardware:** Sensores NIR
+> Sistema embebido para gestión hidropónica. Uso de **espectroscopia NIR** (Infrarrojo Cercano) para el análisis de nutrientes y automatización del suministro basado en niveles NPK.
 
-#### 📡 Mapeador de Habitaciones con FPGA (Proyecto Académico)
-> **Tecnología:** FPGA / Sensores Ultrasonidos
-> Diseño de un sistema hardware capaz de procesar señales de sensores en tiempo real para generar mapas espaciales, implementado sobre lógica programable.
+#### 📡 [Mapeador Espacial con FPGA](https://github.com/AlvaroPintado) > **Tecnología:** FPGA / VHDL
+> Diseño de lógica de **sincronización** entre sensores de ultrasonidos y controladores de motores directamente en hardware para generar mapas espaciales precisos.
 
 ---
 
